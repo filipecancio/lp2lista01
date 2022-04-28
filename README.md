@@ -1,6 +1,6 @@
 # Lista de Execícios 01
 
-### Questão 01
+### Questão 01 [Resolução](https://github.com/filipecancio/lp2lista01/pull/2)
  Implemente uma classe, de nome `Data`, que apresente três atributos inteiros em cada instância, para armazenamento,
 respectivamente, de mês, dia e ano correspondentes a uma determinada data. Em relação à implementação da classe, deve
 haver métodos `get` e `set` para cada atributo e um construtor para fins de inicialização desses mesmos atributos (assuma que os valores fornecidos sejam corretos). Acrescente ainda um método, de nome `mostrarData()`, para retornar uma string
